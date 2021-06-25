@@ -4,4 +4,4 @@ Currently pursuing my CS major at FIU. I had previously studied biological scien
 
 I'm a focused professional with proven analytical, communication, and multitasking skills. Aiming to leverage my abilities to successfully fill the Software developer role at your company. Frequently praised as adaptable by my peers, I can be relied upon to help your company achieve its goals.
 
-![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+<img src="https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg" alt="Metrics" width="100%">
