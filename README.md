@@ -15,6 +15,8 @@ fill the Software developer role at your company. Frequently praised as
 adaptable by my peers, I can be relied upon to help your company achieve 
 its goals.
 
+  <code><img height="20" src=""></code>
+
 ---
 
 <img src="https://github-readme-stats.vercel.app/api?username=ChristianRoque&show_icons=true&theme=prussian&count_private=true" width="50%" />
