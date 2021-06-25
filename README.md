@@ -1,1 +1,1 @@
-You did not provide a valid "markdown" query parameter, which is required to use this template.
+![Metrics](https://github.com/ChristianRoque/ChristianRoque/blob/main/github-metrics.svg)
