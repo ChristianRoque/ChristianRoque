@@ -17,7 +17,7 @@ its goals.
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianRoque&show_icons=true&theme=prussian&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=ChristianRoque&show_icons=true&theme=prussian&count_private=true" width="50%" />
 
 
 
