@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=#d4af37&height=100&section=header)
+
 <img src="https://github.com/ChristianRoque/ChristianRoque/blob/main/github-metrics.svg" alt="Metrics" width="50%" align="right">
 
 ![](https://komarev.com/ghpvc/?username=ChristianRoque&style=flat-square)
