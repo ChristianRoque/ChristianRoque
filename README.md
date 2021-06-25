@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#d4af37&height=100&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=007dc8&height=100&section=header)
 
 <img src="https://github.com/ChristianRoque/ChristianRoque/blob/main/github-metrics.svg" alt="Metrics" width="50%" align="right">
 
@@ -6,6 +6,7 @@
 
 Currently pursuing my CS major at FIU. Recently graduated from
 Ironhack’s Web Development Bootcamp in Miami.
+
 
 I'm a focused professional with proven analytical, communication, 
 and multitasking skills. Aiming to leverage my abilities to successfully 
